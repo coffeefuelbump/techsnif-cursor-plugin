@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "TechSnif": {
+      "command": "npx",
+      "args": ["-y", "@techsnif/mcp-server"]
+    }
+  }
+}

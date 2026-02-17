@@ -1,0 +1,23 @@
+{
+  "name": "techsnif",
+  "version": "1.0.0",
+  "description": "Access real-time tech news from TechSnif inside Cursor. Search articles, read full stories, and get trending tech news — powered by TechSnif's MCP server.",
+  "author": {
+    "name": "TechSnif",
+    "email": "hello@techsnif.com"
+  },
+  "homepage": "https://techsnif.com/mcp",
+  "repository": "https://github.com/techsnif/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tech-news",
+    "mcp",
+    "ai",
+    "startups",
+    "venture",
+    "robotics",
+    "news",
+    "techsnif"
+  ],
+  "logo": "assets/logo.svg"
+}

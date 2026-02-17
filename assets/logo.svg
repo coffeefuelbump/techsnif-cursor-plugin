@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="40" fill="#0a0a14"/>
+  <text x="100" y="115" font-family="'Inter', system-ui, -apple-system, sans-serif" font-size="42" font-weight="800" fill="#60b8fe" text-anchor="middle" letter-spacing="-0.02em">TechSnif</text>
+</svg>

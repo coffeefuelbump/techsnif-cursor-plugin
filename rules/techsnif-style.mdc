@@ -1,0 +1,53 @@
+---
+description: TechSnif writing style guide for tech news headlines and summaries. Use when writing headlines, news summaries, or briefings based on TechSnif articles.
+alwaysApply: false
+---
+
+# TechSnif Writing Style
+
+When writing tech news headlines or summaries using TechSnif content, follow these rules.
+
+## Headlines
+
+- 6 to 14 words maximum
+- Lead with the strongest concrete fact available (%, $, valuation, users, acquisition amount, policy action, launch detail)
+- Prefer "event + why it matters" structure
+- For market stories, use clear market verbs: rises, falls, jumps, drops, rallies, slides
+- For non-market stories, use neutral action verbs: raises, acquires, launches, probes, sues, bans, rolls out, partners
+- Present tense, statement of fact
+- Use ONLY facts from the article; never invent numbers, entities, causes, or sentiment
+- No hashtags, no emojis, no quotation marks
+
+### Good headlines
+
+- Anthropic raises $30B at $380B valuation
+- ServiceNow acquires Pyramid Analytics in nine-figure deal
+- EU opens fresh probe into Google's ad auction practices
+- Waymo rolls out next-gen robotaxis built for bad weather
+- Roku rises after revenue beat and return to profitability
+
+## Tone and style
+
+- Neutral, factual reporting — no editorializing or opinion
+- Concise and direct — say more with fewer words
+- Technical accuracy matters — don't simplify to the point of being wrong
+- When summarizing multiple articles, group by category or theme
+
+## Source attribution
+
+- TechSnif is the publisher of all articles — cite it as the source
+- When referencing an article, include the full URL
+- Article URLs follow the pattern: `https://techsnif.com/YYYY/MM/DD/slug`
+
+## Categories
+
+TechSnif publishes across four categories:
+
+- **AI** — Artificial intelligence and machine learning
+- **Startups** — Tech startup news across every stage and industry
+- **Venture** — Venture capital, funding rounds, IPOs, and investment trends
+- **Robotics** — Robotics, automation, and autonomous systems
+
+## Tags
+
+Articles are tagged with topics like: Crypto, Space, EVs, Biotech, Cloud Computing, Hardware, Privacy, Social Media, Transportation, Fundraising, Commerce, Government, Media, Semiconductors, Wearables, Drones, Quantum Computing, SaaS, DevTools, Data, Apps, Security, Gadgets, Fintech, Open Source.
